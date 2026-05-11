@@ -18,28 +18,4 @@ Estructura del Repositorio:
 ```
 
 
-
-
-
-El siguiente dataset tiene las siguientes características:
-
-| Columna | Data Type | Descripción |
-| :--- | :--- | :--- |
-| `Animal` | `UUID` | Identificador único - Nombre de los animales |
-| `Height(cm)` | `Decimal` |Altura |
-| `Weight(kg)` | `Decimal`| Peso |
-| `Color` | `Texto` | Color |
-| `Diet` | `Texto` | Dieta |
-| `Lifespan(years)` | `Entero` | Esperanza de vida |
-| `Habitat` | `Texto` | Habitat |
-| `Predators` | `Texto` | Depredadores |
-| `Average Speed (km/h)` | `Entero` | Promedio de velocidad |
-| `Countries found` | `Texto` | Países donde ha sido encontrado |
-| `Conservation status` | `Texto` | Estado de conservación del animal |
-| `Family` | `Texto` | Familia |
-| `Gestation Period` | `Entero` | Periodo de gestación del animal |
-| `Top speed (km/h)` | `Entero` | Máxima velocidad alcanzada por el animal |
-| `Social Structure` | `Texto` | Estructura social|
-| `Offspring per Birth` | `Entero` | Cantidad de descendencia por gestación. |
-
 ![Mono asintiendo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l6eTJtczFnM3l6cWljYm90Y2xvamwwZXE3NHR4NThiMDRjNzNzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SMy35IM1uiP59hm4Q0/giphy.gif)
