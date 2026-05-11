@@ -28,7 +28,7 @@ Este directorio contiene los conjuntos de datos del proyecto, organizados por su
 * **Regla de oro:** **NO** modificar, renombrar ni sobrescribir los archivos de esta carpeta. Power BI lee directamente de aquí para iniciar el proceso de extracción.
 
 ### Archivos contenidos:
-* 📊 [Dataset Original de Animales (CSV)](data/raw/Animal_Dataset.csv) :
+* 📊 [Dataset Original de Animales (CSV)](data/raw) :
 Dataset nativo con registros históricos de especies, edades y estados de salud, sin filtros previos.
 
 ---
@@ -39,7 +39,7 @@ Dataset nativo con registros históricos de especies, edades y estados de salud,
 * **Uso en Power BI:** Este archivo es útil si exportas tablas calculadas complejas o si necesitas almacenar históricos ya transformados que no requieran pasar nuevamente por Power Query.
 
 ### Archivos contenidos:
-* `Animal Dataset_Limpio.csv`: (Opcional) Copia de seguridad de la tabla consolidada tras la remoción de duplicados y nulos.
+* 📊 [Dataset Limpio de Animales (CSV)](data/processed) :: (Opcional) Copia de seguridad de la tabla consolidada tras la remoción de duplicados y nulos.
 
 ---
 
