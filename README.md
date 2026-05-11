@@ -39,7 +39,7 @@ Dataset nativo con registros históricos de especies, edades y estados de salud,
 * **Uso en Power BI:** Este archivo es útil si exportas tablas calculadas complejas o si necesitas almacenar históricos ya transformados que no requieran pasar nuevamente por Power Query.
 
 ### Archivos contenidos:
-* 📊 [Dataset Limpio de Animales (CSV)](data/processed) :: (Opcional) Copia de seguridad de la tabla consolidada tras la remoción de duplicados y nulos.
+* 📊 [Dataset Limpio de Animales (CSV)](data/processed) : Copia de seguridad de la tabla consolidada tras la remoción de duplicados y nulos.
 
 ---
 
