@@ -41,6 +41,15 @@ Dataset nativo con registros históricos de especies, edades y estados de salud,
 ### Archivos contenidos:
 * 📊 [Dataset Limpio de Animales (CSV)](data/processed) : Copia de seguridad de la tabla consolidada tras la remoción de duplicados y nulos.
 
+
+## 📊 2. Reportes (`reports/`)
+
+* **Propósito:** Guardar el archivo principal trabajado en Power BI
+* **Uso en Power BI:** Este archivo es útil para realizar la visualización de los datos procesados para la aplicación de Business Intelligence
+
+### Archivos contenidos:
+* 📊 [Archivo final procesado(PBIX)](reports/) : Archivo final para la visualizacion de metricas (KPIS)
+
 ---
 
 ## 📂 Documentación del Proyecto
